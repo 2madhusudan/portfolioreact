@@ -29,7 +29,7 @@ const App = () => {
         <div className="body">
           <div className="about">
             <h3><u>Description about me:</u></h3>
-            <p>Hey! I am Madhusudan and I am pursuing my B.Tech Degree from VIT in IT. I have been since the beginning of my time here on earth, fascinated by these machines<br/>that we call computers, and from understanding what the internet is and how it works to now learning to make my own websites is a great journey so far but<br/>there is so much I still don't know which makes me excited...</p>
+            <p>Hey! I am Madhusudan and I am pursuing my B.Tech Degree from VIT in IT. I love to code and learn new things related to computer and its beauty</p>
           </div>
           <div className="skills">
             <h3><u>Skills:</u></h3>
